@@ -1,0 +1,7 @@
+F:\Programmering\NTest\bin\Debug\NTest.exe.config
+F:\Programmering\NTest\bin\Debug\NTest.exe
+F:\Programmering\NTest\bin\Debug\NTest.pdb
+F:\Programmering\NTest\obj\Debug\NTest.csproj.AssemblyReference.cache
+F:\Programmering\NTest\obj\Debug\NTest.csproj.CoreCompileInputs.cache
+F:\Programmering\NTest\obj\Debug\NTest.exe
+F:\Programmering\NTest\obj\Debug\NTest.pdb
